@@ -223,6 +223,14 @@ a {
   text-decoration: none;
 }
 
+ul {
+  padding-left: 20px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
 .background-wrap {
   z-index: -1;
   background-image: linear-gradient(180deg, var(--colors--dark-blue), var(--colors--gradient-white\<deleted\|variable-a298dc42-3178-2a6b-5eff-f8ae5816dda0\>));
